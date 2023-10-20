@@ -1,4 +1,4 @@
-DashBoard①_4YearsSales
+DashBoard①_Sales x Map
 
 - With data sourced from open source, this dynamic visualization provides a snapshot of order quantities, sales categories, and customer segments of the company.
 
